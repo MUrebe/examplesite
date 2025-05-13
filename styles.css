@@ -80,3 +80,13 @@ p {
   color: #555;
   margin-bottom: 10px;
 }
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  display: block;
+  margin: 0 auto 20px auto; /* Ortala ve alt boşluk bırak */
+}
