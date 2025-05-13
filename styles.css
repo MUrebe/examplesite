@@ -1,4 +1,4 @@
-/* Genel Ayarlar */
+
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -7,7 +7,7 @@ body {
   line-height: 1.6;
 }
 
-/* Navigasyon Menüsü */
+
 nav {
   background: #4b6cb7;
   background: linear-gradient(to right, #182848, #4b6cb7);
@@ -36,7 +36,7 @@ nav ul li a:hover {
   color: #ffd700;
 }
 
-/* İçerik Kutusu */
+
 .container {
   max-width: 800px;
   margin: 50px auto;
@@ -47,7 +47,7 @@ nav ul li a:hover {
   text-align: center;
 }
 
-/* Tarih ve Saat */
+
 #datetime {
   font-size: 22px;
   color: #4b6cb7;
@@ -55,7 +55,7 @@ nav ul li a:hover {
   font-weight: bold;
 }
 
-/* Fotoğraf */
+
 img.profile {
   max-width: 200px;
   height: auto;
@@ -69,7 +69,7 @@ img.profile:hover {
   transform: scale(1.05);
 }
 
-/* Metinler */
+
 h1 {
   color: #182848;
   margin-bottom: 10px;
